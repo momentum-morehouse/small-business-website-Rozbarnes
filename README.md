@@ -1,14 +1,22 @@
-# Build a Small Business Website
+<!DOCTYPE.html>
+<html>
+<head> # Build a Small Business Website
+ <metacharset="utf-8">
+ <metaname="starter_files/images/store-interior.jpg">
+ <p><nav></p>
 
-## Directions
+ <title><strong><Lazy River Nursery and Garden Supply><strong></title>
 
-Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
+<head>
+<h1> Lazy River Nursery and Garden Supply><strong></h1>
+
 
 - A home page (`index.html`)
 - "Currently In Stock" - a page of plants they currently have in stock (`in-stock.html`)
 - A page showing their hours and location (`info.html`)
 
 ### Homepage
+<title>
 
 The homepage should have the name of the business as a level 1 heading, followed by a picture of the store interior.
 
